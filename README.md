@@ -10,10 +10,10 @@
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=nameofSEOKWONHONG&theme=blue-green)](https://github.com/nameofSEOKWONHONG/github-readme-streak-stats)
 
 ### History
-* Duzon BizOn.
+* Duzon Bizon
   * ERP, CRM
   * 10.8 ~ 12.8
-* SK M&S.
+* SK M&S
   * Education Service. 
   * 15.1 ~ 17.2
 * Yes24
