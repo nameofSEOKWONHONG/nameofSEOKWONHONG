@@ -9,6 +9,22 @@
 
 [![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=nameofSEOKWONHONG&theme=blue-green)](https://github.com/nameofSEOKWONHONG/github-readme-streak-stats)
 
+### History
+* Duzon BizOn.
+  * ERP, CRM
+  * 10.8 ~ 12.8
+* SK M&S.
+  * Education Service. 
+  * 15.1 ~ 17.2
+* Yes24
+  * ECommerce Movie & Tickets
+  * 17.6 ~ 19.8
+* ECount
+  * Sass ERP, Solution
+  * 19.9 ~ 22.9
+* Current
+  * B2C Healthcare System Development
+    
 <!--
 **nameofSEOKWONHONG/nameofSEOKWONHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
