@@ -21,7 +21,7 @@
   * 17.6 ~ 19.8
 * ECount
   * Sass ERP, Solution
-  * 19.9 ~ 22.9
+  * 19.10 ~ 22.9
 * Current
   * B2C Healthcare System Development
     
