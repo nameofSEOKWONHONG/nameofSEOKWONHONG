@@ -18,7 +18,7 @@
   * 15.1 ~ 17.2
 * Yes24
   * ECommerce Movie & Tickets
-  * 17.6 ~ 19.8
+  * 17.6 ~ 19.10
 * ECount
   * Sass ERP, Solution
   * 19.10 ~ 22.9
