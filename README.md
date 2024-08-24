@@ -20,7 +20,7 @@
   * CRM, ECommerce Movie & Tickets
   * 17.6 ~ 19.10
 * ECount
-  * Sass ERP, CRM, GROUPWARE, Solution
+  * SasS ERP, CRM, GROUPWARE, Solution
   * 19.10 ~ 22.9
 * Current
   * B2C Healthcare System Development
