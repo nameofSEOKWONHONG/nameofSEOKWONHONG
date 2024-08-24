@@ -21,7 +21,7 @@
   * 17.6 ~ 19.10
 * ECount
   * SasS ERP, CRM, GROUPWARE, Solution
-  * 19.10 ~ 22.9
+  * 19.10 ~ 22.10
 * Current
   * B2C Healthcare System Development
     
