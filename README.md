@@ -17,7 +17,7 @@
   * CRM, Education Service. 
   * 15.1 ~ 17.2
 * Yes24
-  * CRM, ECommerce Movie & Tickets
+  * CMS, ECommerce Movie & Tickets
   * 17.6 ~ 19.10
 * ECount
   * SasS ERP, CRM, GROUPWARE, Solution
