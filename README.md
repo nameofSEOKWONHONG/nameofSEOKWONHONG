@@ -21,9 +21,7 @@
   * 17.6 ~ 19.10
 * ECount
   * SasS ERP, CRM, GROUPWARE, Solution
-  * 19.10 ~ 22.10
-* Current
-  * B2C Healthcare System Development
+  * 19.10 ~ 22.10  
     
 <!--
 **nameofSEOKWONHONG/nameofSEOKWONHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
