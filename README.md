@@ -8,20 +8,6 @@
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameofSEOKWONHONG&theme=blue-green)
 
 ![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=nameofSEOKWONHONG&theme=blue-green)
-
-### History
-* Douzone Bizon
-  * ERP, CRM
-  * 10.8 ~ 12.8
-* SK M&S
-  * CRM, Education Service. 
-  * 15.1 ~ 17.2
-* Yes24
-  * CMS, ECommerce Movie & Tickets
-  * 17.6 ~ 19.10
-* ECount
-  * SasS ERP, CRM, GROUPWARE, Solution
-  * 19.10 ~ 22.10  
     
 <!--
 **nameofSEOKWONHONG/nameofSEOKWONHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
